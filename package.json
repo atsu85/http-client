@@ -16,7 +16,7 @@
   "main": "dist/commonjs/aurelia-http-client.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/aurelia/http-client"
+    "url": "http://github.com/atsu85/http-client"
   },
   "jspm": {
     "main": "aurelia-http-client",
